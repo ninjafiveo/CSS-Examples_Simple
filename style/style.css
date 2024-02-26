@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    border: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-color: antiquewhite;
+
+}
+
+.submission_btn{
+    color: blueviolet;
+    border-radius: 100px;
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    margin: 50px;
+    border: 50px;
+    border-width: 20px;
+    border-color: darkorange;
+    border-style: solid;
+}
+.submission_btn:active{
+    background-color: cadetblue;
+}
+
+#div_1{
+    border: springgreen;
+    border-width: 2px;
+    border-color: darkorange;
+    border-style: solid;
+    background-color: cornflowerblue;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+#div_2{
+    background-color: darkseagreen;
+}
+
+.article_header{
+    color: white;
+}
